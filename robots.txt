@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /news.json
+Disallow: /ads.json
+Disallow: /latest.json
+
+Sitemap: https://YOUR-SITE-URL/sitemap.xml

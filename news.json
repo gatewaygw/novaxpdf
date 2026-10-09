@@ -1,0 +1,2 @@
+{"_help":"Add items here. Each shows as a banner in the app. type: info, warn or success. link, button and expires (YYYY-MM-DD) are optional. Use a new id for every new message.",
+ "items":[{"id":"welcome-1","text":"Welcome to NovaX PDF! Tip: press F11 for full screen and Esc to leave it.","type":"info","link":"","button":"","expires":"2027-01-31"}]}

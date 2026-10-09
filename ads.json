@@ -1,0 +1,3 @@
+{"_help":"Set enabled to true and add items to show small text ads. slots: welcome, sidebar, status. text is cut at 140 characters (60 in the status bar).",
+ "enabled":false,
+ "items":[{"id":"demo-1","title":"Your ad here","text":"Reach people who read PDFs all day.","link":"https://YOUR-SITE-URL","slots":["welcome","sidebar","status"]}]}

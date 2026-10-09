@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/YOUR_GITHUB_USER/YOUR_REPO/releases/download/v0.2.0/NovaXPDF-Setup.exe",
+  "sha256": "PASTE-THE-HASH-FROM-build.bat-HERE",
+  "notes": "First release"
+}
